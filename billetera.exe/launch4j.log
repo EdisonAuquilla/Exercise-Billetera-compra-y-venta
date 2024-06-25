@@ -1,0 +1,42 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Leght Moon69\Documents\billetera.exe\billetera.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Leght Moon69\Documents\billetera.exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (64-bit)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Leght Moon69\Documents\billetera.exe\billetera.exe"
+Args length:	66/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Leght Moon69\Documents\billetera.exe\billetera.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Leght Moon69\Documents\billetera.exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jre-1.8
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Leght Moon69\Documents\billetera.exe\billetera.exe"
+Args length:	66/32768 chars
+Exit code:	0

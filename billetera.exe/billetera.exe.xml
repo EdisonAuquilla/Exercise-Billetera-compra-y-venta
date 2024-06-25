@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Leght Moon69\Documents\NetBeansProjects\billetera\target\billetera-1.0-SNAPSHOT-jar-with-dependencies.jar</jar>
+  <outfile>C:\Users\Leght Moon69\Downloads\billetera.exe\billetera.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk-22</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8</minVersion>
+    <maxVersion>22</maxVersion>
+  </jre>
+</launch4jConfig>
