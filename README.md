@@ -1,6 +1,7 @@
 ### Digital Wallet
 
-##Description
+## Description
+
 The Digital Wallet project is a system that simulates a digital wallet, allowing users to record their daily transactions, which can be either purchases or sales. Each transaction is characterized by a unique transaction ID, transaction date, transaction type (Purchase or Sale), and transaction amount. The system also calculates and displays the total balance of the wallet, adding income and subtracting registered expenses. This project aims to improve users’ financial planning.
 
 Features
