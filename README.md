@@ -1,6 +1,7 @@
 # Digital Wallet
 ## Contributors
 Edison Auquilla
+
 Jaren Tuarez
 
 ## Description
