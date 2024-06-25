@@ -1,4 +1,4 @@
-### Digital Wallet
+# Digital Wallet
 
 ## Description
 
